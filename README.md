@@ -1,6 +1,6 @@
 # BarberSys - Gestão de Barbearias
 
-![STATUS](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ORANGE&style=for-the-badge)
+![STATUS](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 ![JAVA](http://img.shields.io/static/v1?label=BACKEND&message=JAVA%20SPRING&color=BLUE&style=for-the-badge)
 
 ## ✂️ Sobre o Projeto
@@ -30,14 +30,14 @@ O objetivo é otimizar o tempo do profissional e melhorar a experiência do clie
 O projeto foi desenvolvido seguindo boas práticas de engenharia de software:
 
 **Back-end:**
-* **Java 17**
+* **Java 21**
 * **Spring Boot** (Web, Data JPA, Validation)
 * **Banco de Dados:** MySQL / PostgreSQL
 * **Maven** (Gerenciamento de dependências)
 
 **Front-end / Mobile:**
-* *(Caso tenha interface web)* **HTML5 / CSS3 / JavaScript**
-* *(Caso tenha App)* **Flutter** (Dart)
+HTML5 / CSS3 / JavaScript
+
 
 ## 🚀 Como executar o projeto
 
